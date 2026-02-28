@@ -49,7 +49,7 @@ I am a passionate *Computer Science & Engineering* student. I love exploring new
 ### ✨ Competitive Programming Profiles
 - Codeforces: https://codeforces.com/profile/SYED_MOHAMMAD
 - CodeChef: https://www.codechef.com/users/SYED_MOHAMMAD
-- AtCoder: https://atcoder.jp/users/SYED_MOHAMMAD 
+- AtCoder: https://atcoder.jp/users/SyedMohammad
 
 ---
 
