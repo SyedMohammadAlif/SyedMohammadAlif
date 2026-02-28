@@ -35,26 +35,6 @@ I am a passionate *Computer Science & Engineering* student. I love exploring new
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dominic20-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Dominic20-03&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic20-03&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dominic20-03&theme=radical&no-frame=false&margin-w=10)
-
----
-
-### ✨ Competitive Programming Profiles
-- Codeforces: https://codeforces.com/profile/Dominic03
-- CodeChef: https://www.codechef.com/users/dominic03
-- AtCoder: https://atcoder.jp/users/dominic_03  
-
----
 
 ### 🎯 Current Goals
 - 📌 Strengthen Data Structures & Algorithms
